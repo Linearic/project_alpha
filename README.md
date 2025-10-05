@@ -1,1 +1,1 @@
-This project is managed by the Local Team.
+This project is co-managed by the Local Team and the Central Command.
