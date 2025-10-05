@@ -1,1 +1,1 @@
-This is the central archive for project_alpha.
+This project is managed by the Local Team.
